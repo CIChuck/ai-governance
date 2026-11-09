@@ -13,3 +13,7 @@ Earlier draft files remain in the local workspace under `docs/versions/`, along 
 ## Repository scope
 
 This is a document repository. There is no application code or test suite. Changes to the manuscript should preserve the DOCX source and record the reviewed release in Git history.
+
+## License
+
+The contents of this repository, including the AAGF manuscript, are licensed under the [MIT License](LICENSE).
